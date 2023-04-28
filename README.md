@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus do Carmo Carvalho</h1>
 <h3 align="center">A Master's student in Astronomy at The University of Western Ontario</h3>
 
-- 🔭 I’m currently working on **the multiwavelength analysis of the UGC 2885, a Superspiral Galaxy. For this, I use the ASTROPY, SpectralCube and Dask packages to perform noise reduction routines on radio data-cubes.**
+- 🔭 I’m currently working on **the multiwavelength analysis of the UGC 2885, a Superspiral Galaxy. For this, I use the ASTROPY, SpectralCube and Dask packages to perform noise reduction routines on radio data-cubes.** (https://github.com/mattcarv/RadioCUBE/tree/main)
+- 🌱 I have used **supervised and unsupervised Machine Learning tools to classify astronomical objects with high precision and low processing times.** (https://github.com/mattcarv/AstroMachineLearning9506S)
+- 🌱 I’m currently learning **how to apply Machine Learning to astronomical data in order to identify spectral features that were ignored by the common spectra analysis tools.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
